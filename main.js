@@ -35,7 +35,7 @@ let math = high - low;
 // 6.
 // What is `math` set to?
 math = high - "5";
-// A: 505
+// A: 45
 
 
 // 7.
@@ -115,12 +115,11 @@ let d = (null == false);
 
 // 18.
 let e = (NaN == null);
-// A. true
+// A. false
 
 
 // 19.
 let f = (NaN == NaN);
-// A. true
 
 
 // 20.
@@ -145,7 +144,7 @@ if(x){
 } else {
 	console.log("False!");
 }
-// A: True!
+// A: False!
 
 
 // 22.
