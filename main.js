@@ -120,7 +120,7 @@ let e = (NaN == null);
 
 // 19.
 let f = (NaN == NaN);
-
+//A. false
 
 // 20.
 // Fix the `if...else` statement below by adding an `if` keyword and conditional expression.
